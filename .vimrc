@@ -41,7 +41,6 @@ filetype plugin indent on		" required
 
 :set clipboard=unnamed
 :syntax on
-:colorscheme industry
 :set splitright
 :set number
 nnoremap <C-J> <C-W><C-J>	" ^ctrl + J to move split below
